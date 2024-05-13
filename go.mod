@@ -1,4 +1,4 @@
-module github.com/whosonfirst/go-cache-memcache
+module github.com/whosonfirst/go-cache-ristretto
 
 go 1.22.3
 
